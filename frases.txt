@@ -1,0 +1,156 @@
+Asignar a x el valor 10; FIN.
+Leer número; escribir(número); FIN.
+Sumar a y el valor 5; FIN.
+Restar a z el valor 3; FIN.
+Multiplicar a a por 2; FIN.
+Dividir a b entre 4; FIN.
+Incrementar a i en 1; FIN.
+Decrementar a j en 1; FIN.
+Si x > y entonces escribir("Mayor"); FIN_SI.
+Si x < y entonces escribir("Menor"); FIN_SI.
+Si x == y entonces escribir("Igual"); FIN_SI.
+Para i desde 1 hasta 10 hacer; FIN_PARA.
+Mientras x < 10 hacer; FIN_MIENTRAS.
+Repetir; FIN_REPETIR.
+Agregar elemento a lista; FIN.
+Eliminar elemento de lista; FIN.
+Buscar en lista elemento; FIN.
+Ordenar lista ascendente; FIN.
+Ordenar lista descendente; FIN.
+Invertir lista; FIN.
+Contar elementos en lista; FIN.
+Obtener longitud de cadena; FIN.
+Concatenar cadenas a y b; FIN.
+Convertir a mayúsculas; FIN.
+Convertir a minúsculas; FIN.
+Reemplazar "a" por "e"; FIN.
+Eliminar espacios en cadena; FIN.
+Extraer subcadena desde 0 hasta 5; FIN.
+Verificar si es par; FIN.
+Verificar si es impar; FIN.
+Calcular módulo de a y b; FIN.
+Calcular potencia de 2; FIN.
+Redondear número a entero; FIN.
+Obtener parte entera de número; FIN.
+Obtener parte decimal de número; FIN.
+Convertir número a cadena; FIN.
+Convertir cadena a número; FIN.
+Generar número aleatorio entre 1 y 100; FIN.
+Asignar valor booleano verdadero; FIN.
+Asignar valor booleano falso; FIN.
+Operación lógica AND entre a y b; FIN.
+Operación lógica OR entre a y b; FIN.
+Operación lógica NOT de a; FIN.
+Inicializar variable contador a 0; FIN.
+Incrementar contador en 1; FIN.
+Decrementar contador en 1; FIN.
+Resetear contador a 0; FIN.
+Verificar si lista está vacía; FIN.
+Agregar elemento al inicio; FIN.
+Agregar elemento al final; FIN.
+Eliminar primer elemento; FIN.
+Eliminar último elemento; FIN.
+Obtener primer elemento; FIN.
+Obtener último elemento; FIN.
+Buscar índice de elemento; FIN.
+Verificar existencia de elemento; FIN.
+Crear función sumar a y b; FIN_FUNCIÓN.
+Crear función restar a y b; FIN_FUNCIÓN.
+Crear función multiplicar a y b; FIN_FUNCIÓN.
+Crear función dividir a y b; FIN_FUNCIÓN.
+Llamar función sumar con 5 y 3; FIN.
+Llamar función restar con 10 y 4; FIN.
+Llamar función multiplicar con 2 y 6; FIN.
+Llamar función dividir con 20 y 5; FIN.
+Crear procedimiento imprimir mensaje; FIN_ACCIÓN.
+Llamar procedimiento imprimir con "Hola"; FIN.
+Crear arreglo de tamaño 5; FIN.
+Asignar valor a arreglo[0] = 1; FIN.
+Asignar valor a arreglo[1] = 2; FIN.
+Asignar valor a arreglo[2] = 3; FIN.
+Asignar valor a arreglo[3] = 4; FIN.
+Asignar valor a arreglo[4] = 5; FIN.
+Iterar sobre arreglo; FIN_ITERACIÓN.
+Mostrar elemento de arreglo; FIN.
+Calcular suma de arreglo; FIN.
+Calcular promedio de arreglo; FIN.
+Encontrar máximo en arreglo; FIN.
+Encontrar mínimo en arreglo; FIN.
+Crear estructura Estudiante con nombre y edad; FIN.
+Asignar nombre a estudiante; FIN.
+Asignar edad a estudiante; FIN.
+Mostrar datos del estudiante; FIN.
+Crear lista enlazada; FIN.
+Agregar nodo a lista; FIN.
+Eliminar nodo de lista; FIN.
+Recorrer lista enlazada; FIN.
+Crear árbol binario; FIN.
+Agregar nodo al árbol; FIN.
+Eliminar nodo del árbol; FIN.
+Recorrer árbol en preorden; FIN.
+Recorrer árbol en inorden; FIN.
+Recorrer árbol en postorden; FIN.
+Crear pila; FIN.
+Push elemento a pila; FIN.
+Pop elemento de pila; FIN.
+Verificar si pila está vacía; FIN.
+Crear cola; FIN.
+Enqueue elemento a cola; FIN.
+Dequeue elemento de cola; FIN.
+Verificar si cola está vacía; FIN.
+Crear grafo; FIN.
+Agregar nodo al grafo; FIN.
+Agregar arista al grafo; FIN.
+Eliminar nodo del grafo; FIN.
+Eliminar arista del grafo; FIN.
+Recorrer grafo en profundidad; FIN.
+Recorrer grafo en anchura; FIN.
+Calcular factorial usando recursión; FIN.
+Calcular fibonacci usando recursión; FIN.
+Crear clase Persona con atributos nombre y edad; FIN.
+Crear objeto Persona; FIN.
+Asignar nombre a objeto Persona; FIN.
+Asignar edad a objeto Persona; FIN.
+Mostrar atributos de Persona; FIN.
+Crear método para Persona saludar; FIN.
+Llamar método saludar de Persona; FIN.
+Crear interfaz Vehiculo con método mover; FIN.
+Implementar interfaz en clase Coche; FIN.
+Crear objeto Coche; FIN.
+Llamar método mover de Coche; FIN.
+Crear enum Días con lunes a domingo; FIN.
+Asignar valor a día; FIN.
+Verificar si día es fin de semana; FIN.
+Crear función esPar(n); FIN_FUNCIÓN.
+Crear función esImpar(n); FIN_FUNCIÓN.
+Crear función factorial(n); FIN_FUNCIÓN.
+Crear función fibonacci(n); FIN_FUNCIÓN.
+Crear función sumaLista(lista); FIN_FUNCIÓN.
+Crear función promedioLista(lista); FIN_FUNCIÓN.
+Crear función maxLista(lista); FIN_FUNCIÓN.
+Crear función minLista(lista); FIN_FUNCIÓN.
+Crear función buscarElemento(lista, elemento); FIN_FUNCIÓN.
+Crear función ordenarLista(lista); FIN_FUNCIÓN.
+Crear función invertirLista(lista); FIN_FUNCIÓN.
+Crear función contarElementos(lista); FIN_FUNCIÓN.
+Crear función convertirMayusculas(cadena); FIN_FUNCIÓN.
+Crear función convertirMinusculas(cadena); FIN_FUNCIÓN.
+Crear función reemplazarCaracter(cadena, a, b); FIN_FUNCIÓN.
+Crear función eliminarEspacios(cadena); FIN_FUNCIÓN.
+Crear función extraerSubcadena(cadena, inicio, fin); FIN_FUNCIÓN.
+Crear función convertirNumeroACadena(número); FIN_FUNCIÓN.
+Crear función convertirCadenaANúmero(cadena); FIN_FUNCIÓN.
+Crear función generarAleatorio(min, max); FIN_FUNCIÓN.
+Crear función redondearNumero(número); FIN_FUNCIÓN.
+Crear función obtenerParteEntera(número); FIN_FUNCIÓN.
+Crear función obtenerParteDecimal(número); FIN_FUNCIÓN.
+Crear función calcularModulo(a, b); FIN_FUNCIÓN.
+Crear función calcularPotencia(base, exponente); FIN_FUNCIÓN.
+Crear función verificarPrimo(n); FIN_FUNCIÓN.
+Crear función validarPalindromo(cadena); FIN_FUNCIÓN.
+Crear función contarOcurrencias(lista, elemento); FIN_FUNCIÓN.
+Crear función inicializarPila(); FIN_FUNCIÓN.
+Crear función pushPila(pila, elemento); FIN_FUNCIÓN.
+Crear función popPila(pila); FIN_FUNCIÓN.
+Crear función verificarPilaVacia(pila); FIN_FUNCIÓN.
+Crear función inicializarCola(); FIN_FUNCIÓN.
